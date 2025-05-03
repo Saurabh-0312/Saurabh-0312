@@ -27,8 +27,8 @@
 
 ### Blockchain Development Tools
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" /></a>
 </p>
 
 ### Web3 Libraries
@@ -38,23 +38,7 @@
 </p>
 
 ### Skill Proficiency
-```solidity
-// My tech stack proficiency:
-mapping(string => uint256) public skills;
-constructor() {
-    // Languages
-    skills["Solidity"] = 95;
-    skills["JavaScript"] = 85;
-    skills["Python"] = 80;
-    skills["Rust"] = 75;
-    
-    // Frameworks & Tools
-    skills["Hardhat"] = 90;
-    skills["Foundry"] = 85;
-    skills["Web3.js"] = 85;
-    skills["Ethers.js"] = 90;
-}
-```
+</div>
 </div>
 
 ## 🔍 Expertise
