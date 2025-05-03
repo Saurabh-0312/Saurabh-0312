@@ -10,7 +10,7 @@
 
 ## 🏆 Achievements
 
-- **ETH Global Singapore 2024 Winner** - Top prize across 4 protocols
+- **Winner of ETHGlobal Singapore 2024** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin**
 - **10+ Months of Professional Smart Contract Auditing Experience**
 - **13+ Critical Vulnerabilities Discovered** - 6 High and 7 Medium severity bugs identified
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
