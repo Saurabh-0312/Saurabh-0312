@@ -1,8 +1,16 @@
-# 👋 Hi, I'm a Blockchain Security Researcher & Smart Contract Auditor
+# Hey 👋 I'm Saurabh Singh
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+## Blockchain Security Researcher | Smart Contract Auditor
+
+```
+HGlobal Singapore 2024 Winner
+```
+
+<div id="rotating-text">
+  <span>10+ months auditing experience</span>
+  <span>ETHGlobal Singapore Winner</span>
+  <span>Blockchain Security Researcher</span>
+</div>
 
 ## 🏆 Achievements
 
@@ -10,6 +18,28 @@
 - **10+ Months of Professional Smart Contract Auditing Experience**
 - **13+ Critical Vulnerabilities Discovered** - 6 High and 7 Medium severity bugs identified
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
+
+## 💻 Languages & Frameworks
+
+```solidity
+// My tech stack includes:
+mapping(string => uint256) public skills;
+
+constructor() {
+    // Languages
+    skills["Solidity"] = 95;
+    skills["JavaScript"] = 85;
+    skills["Python"] = 80;
+    skills["Rust"] = 75;
+    
+    // Frameworks & Tools
+    skills["Hardhat"] = 90;
+    skills["Foundry"] = 85;
+    skills["Truffle"] = 80;
+    skills["Web3.js"] = 85;
+    skills["Ethers.js"] = 90;
+}
+```
 
 ## 🔍 Expertise
 
@@ -21,18 +51,11 @@
 
 ## 🛠️ Technical Skills
 
-```solidity
-// My security toolkit includes:
-mapping(string => uint256) public skills;
-
-constructor() {
-    skills["Solidity"] = 95;  
-    skills["EVM Understanding"] = 90;
-    skills["Static Analysis"] = 85;
-    skills["Formal Verification"] = 80;
-    skills["Blockchain Architecture"] = 90;
-}
-```
+- **Static Analysis Tools** - Slither, Mythril, Echidna
+- **Formal Verification** - Certora, SMTChecker
+- **EVM Understanding** - Bytecode analysis, memory layout, storage optimization
+- **Security Frameworks** - OpenZeppelin, DappSys
+- **Testing Methodologies** - Fuzzing, property-based testing, symbolic execution
 
 ## 📊 Audit Portfolio
 
