@@ -75,8 +75,9 @@ Active participant in several competitive security contests through platforms li
 Currently expanding my expertise in:
 - MEV attack vectors and mitigations
 - ZK-proof implementation security
-- Cross-chain bridge vulnerabilities
-- Layer 2 security patterns
+- Rust and Solana security
+- Upgradeable contracts
+- More audit contests and bug bounties
 
 ## 🤝 Let's Connect
 I'm always open to collaborate on security reviews, protocol audits, or discussing blockchain security.
