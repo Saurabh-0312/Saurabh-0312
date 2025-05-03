@@ -17,12 +17,29 @@
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
 
-## 💻 Languages & Frameworks
-
-```solidity
-// My tech stack includes:
+💻 Languages & Frameworks
+<div align="center">
+Programming Languages
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+</p>
+Blockchain Development Tools
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Truffle" /></a>
+</p>
+Web3 Libraries
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" /></a>
+</p>
+Skill Proficiency
+solidity// My tech stack proficiency:
 mapping(string => uint256) public skills;
-
 constructor() {
     // Languages
     skills["Solidity"] = 95;
@@ -37,7 +54,7 @@ constructor() {
     skills["Web3.js"] = 85;
     skills["Ethers.js"] = 90;
 }
-```
+</div>
 
 ## 🔍 Expertise
 
