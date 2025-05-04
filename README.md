@@ -87,10 +87,13 @@ Currently expanding my expertise in:
 
 
 ## 🤝 Let's Connect
+
 I'm always open to collaborate on security reviews, protocol audits, or discussing blockchain security.
-📧 Email: saurabhsingh03122000@gamil.com 
-🐦 Twitter: [@your_handle]([https://twitter.com/your_handle](https://www.linkedin.com/in/saurabh-singh-561146174/))  
-🔗 LinkedIn: [Saurabh singh]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/saurabh-singh-561146174/))
+
+- 📧 **Email:** [saurabhsingh03122000@gmail.com](mailto:saurabhsingh03122000@gmail.com)  
+- 🐦 **Twitter:** [@SaurabhSingh389](https://twitter.com/SaurabhSingh389)  
+- 🔗 **LinkedIn:** [Saurabh Singh](https://www.linkedin.com/in/saurabh-singh-561146174/)
+
 
 ---
 > "Security is not a product, but a process." - Bruce Schneier
