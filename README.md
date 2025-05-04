@@ -56,7 +56,7 @@
 - **Testing Methodologies** - Fuzzing, property-based testing, symbolic execution
 
 ## 📊 Audit Portfolio
-| Project Type | Vulnerabilities Found | Impact |
+| Project Type | Vulnerabilities Found ||| Impact |
 |--------------|:---------------------:|:---------------------:|:---------------------:|:------:|
 |              | **Total** | **High** | **Medium** |  |
 | Lending Protocol | 3 | 2 | 1 | $XXM Protected |
