@@ -37,19 +37,24 @@
   <a href="#"><img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" /></a>
 </p>
 
+</div align="center">
+
 ## 🔍 Expertise
-- **Smart Contract Auditing** - Thorough code reviews and vulnerability assessments
-- **Gas Optimization** - Reducing transaction costs while maintaining security
-- **Blockchain Protocol Analysis** - In-depth review of tokenomics and mechanism design
-- **DeFi Security** - Specialized in AMMs, lending protocols, and yield aggregators
-- **Advanced Solidity Patterns** - Implementation of secure design patterns
+
+- **Smart Contract Auditing** – Thorough code reviews and vulnerability assessments  
+- **Gas Optimization** – Reducing transaction costs while maintaining security  
+- **Blockchain Protocol Analysis** – In-depth review of tokenomics and mechanism design  
+- **DeFi Security** – Specialized in AMMs, lending protocols, and yield aggregators  
+- **Advanced Solidity Patterns** – Implementation of secure design patterns  
 
 ## 🛠️ Technical Skills
-- **Static Analysis Tools** - Slither, Mythril, Echidna
-- **Formal Verification** - Certora, SMTChecker
-- **EVM Understanding** - Bytecode analysis, memory layout, storage optimization
-- **Security Frameworks** - OpenZeppelin, DappSys
-- **Testing Methodologies** - Fuzzing, property-based testing, symbolic execution
+
+- **Static Analysis Tools:** Slither, Mythril, Echidna  
+- **Formal Verification:** Certora, SMTChecker  
+- **EVM Understanding:** Bytecode analysis, memory layout, storage optimization  
+- **Security Frameworks:** OpenZeppelin, DappSys  
+- **Testing Methodologies:** Fuzzing, property-based testing, symbolic execution  
+
 
 ## 📊 Audit Portfolio
 | Project Type | Vulnerabilities Found ||| Platform |
@@ -83,9 +88,9 @@ Currently expanding my expertise in:
 
 ## 🤝 Let's Connect
 I'm always open to collaborate on security reviews, protocol audits, or discussing blockchain security.
-📧 Email: your.email@example.com  
-🐦 Twitter: [@your_handle](https://twitter.com/your_handle)  
-🔗 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+📧 Email: saurabhsingh03122000@gamil.com 
+🐦 Twitter: [@your_handle]([https://twitter.com/your_handle](https://www.linkedin.com/in/saurabh-singh-561146174/))  
+🔗 LinkedIn: [Saurabh singh]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/saurabh-singh-561146174/))
 
 ---
 > "Security is not a product, but a process." - Bruce Schneier
