@@ -37,10 +37,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" /></a>
 </p>
 
-### Skill Proficiency
-</div>
-</div>
-
 ## 🔍 Expertise
 - **Smart Contract Auditing** - Thorough code reviews and vulnerability assessments
 - **Gas Optimization** - Reducing transaction costs while maintaining security
