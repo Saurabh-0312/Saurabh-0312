@@ -56,12 +56,13 @@
 - **Testing Methodologies** - Fuzzing, property-based testing, symbolic execution
 
 ## 📊 Audit Portfolio
-| Project Type | Vulnerabilities Found | Severity | Impact |
-|--------------|:---------------------:|:--------:|:------:|
-| Lending Protocol | 3 | High/Medium | $XXM Protected |
-| DEX Aggregator | 2 | High | $XXM Protected |
-| NFT Marketplace | 4 | Medium/Low | $XXM Protected |
-| Yield Optimizer | 4 | High/Medium | $XXM Protected |
+| Project Type | Vulnerabilities Found ||| Impact |
+|--------------|:---------------------:|:---------------------:|:---------------------:|:------:|
+|              | **Total** | **High** | **Medium** |  |
+| Lending Protocol | 3 | 2 | 1 | $XXM Protected |
+| DEX Aggregator | 2 | 2 | 0 | $XXM Protected |
+| NFT Marketplace | 4 | 0 | 4 | $XXM Protected |
+| Yield Optimizer | 4 | 2 | 2 | $XXM Protected |
 
 ## 🏅 Contest Participation
 Active participant in several competitive security contests through platforms like:
