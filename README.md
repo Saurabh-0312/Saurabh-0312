@@ -43,6 +43,7 @@
 | Project Type | Vulnerabilities Found ||| Platform |
 |--------------|:---------------------:|:---------------------:|:---------------------:|:--------:|
 |              | **Total** | **High** | **Medium** |          |
+| RAAC | 7 | 4 | 3 | CodeHawks |
 | Dria | 4 | 2 | 2 | CodeHawks |
 | QuantAMM | 2 | 1 | 1 | CodeHawks |
 | secondSwap | 2 | 1 | 1 | Code4rena |
@@ -50,7 +51,7 @@
 | THORWallet | 1 | 1 | 0 | Code4rena |
 | Rova | 1 | 1 | 0 | Sherlock |
 | Winnables Raffles | 1 | 0 | 1 | Sherlock |
-| **Total** | **13** | **7** | **6** | |
+| **Total** | **20** | **11** | **9** | |
 
 ## 🔍 Expertise
 
