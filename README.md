@@ -8,10 +8,24 @@
 ## 🏆 Achievements
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
 - **10+ Months of Professional `Smart Contract Auditing Experience`**
-- **`13+ Critical Vulnerabilities Discovered`** - 6 High and 7 Medium severity bugs identified
+- **`20+ Critical Vulnerabilities Discovered`** - 11 High and 9 Medium severity bugs identified
 - **Conducted `20+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
+
+## 📊 Audit Portfolio
+| Project Type | Vulnerabilities Found ||| Platform |
+|--------------|:---------------------:|:---------------------:|:---------------------:|:--------:|
+|              | **Total** | **High** | **Medium** |          |
+| RAAC | 7 | 4 | 3 | CodeHawks |
+| Dria | 4 | 2 | 2 | CodeHawks |
+| QuantAMM | 2 | 1 | 1 | CodeHawks |
+| secondSwap | 2 | 1 | 1 | Code4rena |
+| Plaza Finance | 2 | 1 | 1 | Sherlock |
+| THORWallet | 1 | 1 | 0 | Code4rena |
+| Rova | 1 | 1 | 0 | Sherlock |
+| Winnables Raffles | 1 | 0 | 1 | Sherlock |
+| **Total** | **20** | **11** | **9** | |
 
 ## 💻 Languages & Frameworks
 
@@ -38,20 +52,6 @@
 </p>
 
 </div align="center">
-
-## 📊 Audit Portfolio
-| Project Type | Vulnerabilities Found ||| Platform |
-|--------------|:---------------------:|:---------------------:|:---------------------:|:--------:|
-|              | **Total** | **High** | **Medium** |          |
-| RAAC | 7 | 4 | 3 | CodeHawks |
-| Dria | 4 | 2 | 2 | CodeHawks |
-| QuantAMM | 2 | 1 | 1 | CodeHawks |
-| secondSwap | 2 | 1 | 1 | Code4rena |
-| Plaza Finance | 2 | 1 | 1 | Sherlock |
-| THORWallet | 1 | 1 | 0 | Code4rena |
-| Rova | 1 | 1 | 0 | Sherlock |
-| Winnables Raffles | 1 | 0 | 1 | Sherlock |
-| **Total** | **20** | **11** | **9** | |
 
 ## 🔍 Expertise
 
