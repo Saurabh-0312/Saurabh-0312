@@ -23,9 +23,9 @@
 | secondSwap | 2 | 1 | 1 | Code4rena |
 | Plaza Finance | 2 | 1 | 1 | Sherlock |
 | THORWallet | 1 | 1 | 0 | Code4rena |
-| Rova | 1 | 1 | 0 | Sherlock |
+| Rova | 1 | 0 | 1 | Sherlock |
 | Winnables Raffles | 1 | 0 | 1 | Sherlock |
-| **Total** | **20** | **11** | **9** | |
+| **Total** | **20** | **10** | **10** | |
 
 ## 💻 Languages & Frameworks
 
