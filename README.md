@@ -1,15 +1,17 @@
 # Hey 👋 I'm Saurabh Singh
 `Blockchain Security Researcher`
+`Smart Contract Auditor`
+`1~ Year of Auditing Experience`
 `ETHGlobal Singapore 2024 Winner`
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Smart+Contract+Auditor+%F0%9F%94%8E;BBBlockchain+Security+Researcher+%F0%9F%92%BB;10%2B+Months+Auditing+Experience;ETTETHGlobal+Singapore+2024+Winner+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Smart+Contract+Auditor+%F0%9F%94%8E;1%2B+Year+of+Auditing+Experience;20%2B+Vulnerabilities+Found;EETETHGlobal+Singapore+2024+Winner+%F0%9F%8E%89" alt="Typing SVG" />
 </p>
 
 ## 🏆 Achievements
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
-- **10+ Months of Professional `Smart Contract Auditing Experience`**
-- **`20+ Critical Vulnerabilities Discovered`** - 11 High and 9 Medium severity bugs identified
-- **Conducted `20+ security reviews`** on Solidity/EVM-based protocols
+- **1~ Year of Professional `Smart Contract Auditing Experience`**
+- **`20+ Critical Vulnerabilities Discovered`** - 10 High and 10 Medium severity bugs identified
+- **Conducted `25+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
 
