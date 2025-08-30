@@ -9,7 +9,7 @@
 
 ## 🏆 Achievements
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
-- **1~ Year of Professional `Smart Contract Auditing Experience`**
+- **1+ Year of Professional `Smart Contract Auditing Experience`**
 - **`20+ Critical Vulnerabilities Discovered`** - 10 High and 10 Medium severity bugs identified
 - **Conducted `25+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
