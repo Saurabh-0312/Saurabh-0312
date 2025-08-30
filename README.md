@@ -8,26 +8,29 @@
 </p>
 
 ## 🏆 Achievements
+- **Completed 2 Private Audits** for `Raze` and `Manifest Finance`
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
 - **1+ Year of Professional `Smart Contract Auditing Experience`**
-- **`20+ Critical Vulnerabilities Discovered`** - 10 High and 10 Medium severity bugs identified
+- **`28+ Critical Vulnerabilities Discovered`** - 14 High and 13 Medium severity bugs identified
 - **Conducted `25+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
 
+
 ## 📊 Audit Portfolio
-| Project Type | Vulnerabilities Found ||| Platform |
-|--------------|:---------------------:|:---------------------:|:---------------------:|:--------:|
-|              | **Total** | **High** | **Medium** |          |
-| RAAC | 7 | 4 | 3 | CodeHawks |
-| Dria | 4 | 2 | 2 | CodeHawks |
-| QuantAMM | 2 | 1 | 1 | CodeHawks |
-| secondSwap | 2 | 1 | 1 | Code4rena |
-| Plaza Finance | 2 | 1 | 1 | Sherlock |
-| THORWallet | 1 | 1 | 0 | Code4rena |
-| Rova | 1 | 0 | 1 | Sherlock |
-| Winnables Raffles | 1 | 0 | 1 | Sherlock |
-| **Total** | **20** | **10** | **10** | |
+| Project              | Platform       | Vulnerabilities Found | Total |
+|----------------------|:--------------:|:---------------------:|:-----:|
+| **Raze**             | Private Audit  | 3 High, 4 Medium      | **7** |
+| **Manifest Finance** | Private Audit  | 1 High                | **1** |
+| **RAAC**             | CodeHawks      | 4 High, 3 Medium      | **7** |
+| **Dria**             | CodeHawks      | 2 High, 2 Medium      | **4** |
+| **QuantAMM**         | CodeHawks      | 1 High, 1 Medium      | **2** |
+| **secondSwap**       | Code4rena      | 1 High, 1 Medium      | **2** |
+| **Plaza Finance**    | Sherlock       | 1 High, 1 Medium      | **2** |
+| **THORWallet**       | Code4rena      | 1 High                | **1** |
+| **Rova**             | Sherlock       | 1 Medium              | **1** |
+| **Winnables Raffles**| Sherlock       | 1 Medium              | **1** |
+| **TOTAL**            | **All Platforms** | **14 High, 13 Medium** | **28** |
 
 ## 💻 Languages & Frameworks
 
