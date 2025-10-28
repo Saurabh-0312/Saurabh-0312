@@ -8,10 +8,11 @@
 </p>
 
 ## 🏆 Achievements
-- **Completed 2 Private Audits** for `Raze` and `Manifest Finance`
+- **Completed 3 Private Audits** for `Raze` and `Manifest Finance` and `Raffle`
+- **Winner of `ETHGlobal New Delhi 2025`** across 2 protocols (The Graph, ASI)
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
 - **1+ Year of Professional `Smart Contract Auditing Experience`**
-- **`28+ Critical Vulnerabilities Discovered`** - 14 High and 13 Medium severity bugs identified
+- **`31+ Critical Vulnerabilities Discovered`** - 15 High and 16 Medium severity bugs identified
 - **Conducted `25+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
