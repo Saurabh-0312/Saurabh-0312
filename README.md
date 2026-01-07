@@ -21,6 +21,7 @@
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
+| **Wordlings**        | Private Audit   | 7 High, 4 Medium      | **11** |
 | **Raffle**           | Private Audit   | 1 High, 2 Medium      | **3** |
 | **Raze**             | Private Audit   | 3 High, 4 Medium      | **7** |
 | **Manifest Finance** | Private Audit   | 1 High                | **1** |
@@ -32,7 +33,7 @@
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
 | **Rova**             | Sherlock        | 1 Medium              | **1** |
 | **Winnables Raffles**| Sherlock        | 1 Medium              | **1** |
-| **TOTAL**            | **All Platforms** | **15 High, 16 Medium** | **31** |
+| **TOTAL**            | **All Platforms** | **15 High, 16 Medium** | **42** |
 
 ## 💻 Languages & Frameworks
 
