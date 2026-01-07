@@ -4,11 +4,11 @@
 `1~ Year of Auditing Experience`
 `ETHGlobal Singapore 2024 Winner`
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Smart+Contract+Auditor+%F0%9F%94%8E;1%2B+Year+of+Auditing+Experience;31%2B+Vulnerabilities+Found;EETETHGlobal+Singapore+2024+Winner+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Smart+Contract+Auditor+%F0%9F%94%8E;1%2B+Year+of+Auditing+Experience;42%2B+Vulnerabilities+Found;EETETHGlobal+Singapore+2024+Winner+%F0%9F%8E%89" alt="Typing SVG" />
 </p>
 
 ## 🏆 Achievements
-- **Completed 3 Private Audits** for `Raze` and `Manifest Finance` and `Raffle`
+- **Completed 4 Private Audits** for `Raze` and `Manifest Finance` and `Raffle` and `Wordlings`
 - **Winner of `ETHGlobal New Delhi 2025`** across 2 protocols (The Graph, ASI)
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
 - **1+ Year of Professional `Smart Contract Auditing Experience`**
