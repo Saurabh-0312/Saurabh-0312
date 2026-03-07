@@ -1,10 +1,10 @@
-# Hey 👋 I'm Saurabh Singh
+# Hey 👋 I'm Saurabh Singh ( BlockChain Security Auditor )
 `ETHGlobal Delhi 2025 Winner`
 `Smart Contract Auditor`
 `2~ Year of Auditing Experience`
 `ETHGlobal Singapore 2024 Winner`
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Smart+Contract+Auditor+%F0%9F%94%8E;1%2B+Year+of+Auditing+Experience;42%2B+Vulnerabilities+Found;EETETHGlobal+Singapore+2024+Winner+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=Smart+Contract+Auditor+%F0%9F%94%8E;2%2B+Year+of+Auditing+Experience;46%2B+Vulnerabilities+Found;EETETHGlobal+Singapore+2024+Winner+%F0%9F%8E%89" alt="Typing SVG" />
 </p>
 
 ## 🏆 Achievements
