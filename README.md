@@ -11,8 +11,8 @@
 - **Completed 5 Private Audits** for `Raze`, `Manifest Finance`, `Raffle`, `Wordlings` and `Hopex`.
 - **Winner of `ETHGlobal New Delhi 2025`** across 2 protocols (The Graph, ASI)
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
-- **1+ Year of Professional `Smart Contract Auditing Experience`**
-- **`46+ Critical Vulnerabilities Discovered`** - 22 High and 24 Medium severity bugs identified
+- **2+ Year of Professional `Smart Contract Auditing Experience`**
+- **`48+ Critical Vulnerabilities Discovered`** - 22 High and 26 Medium severity bugs identified
 - **Conducted `25+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
@@ -21,8 +21,9 @@
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
-| **Hopex**            | Private Audit   | 2 High, 4 Medium      | **4** |
-| **Wordlings**        | Private Audit   | 5 High, 4 Medium      | **9** |
+| **Current finance**  | Sherlock        | 1 High, 2 Medium      | **3** |
+| **Hopex**            | Private Audit   | 2 High, 4 Medium      | **6** |
+| **Wordlings**        | Private Audit   | 4 High, 4 Medium      | **8** |
 | **Raffle**           | Private Audit   | 1 High, 2 Medium      | **3** |
 | **Raze**             | Private Audit   | 3 High, 4 Medium      | **7** |
 | **Manifest Finance** | Private Audit   | 1 High                | **1** |
@@ -34,7 +35,7 @@
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
 | **Rova**             | Sherlock        | 1 Medium              | **1** |
 | **Winnables Raffles**| Sherlock        | 1 Medium              | **1** |
-| **TOTAL**            | **All Platforms** | **22 High, 24 Medium** | **46** |
+| **TOTAL**            | **All Platforms** | **22 High, 26 Medium** | **48** |
 
 ## 💻 Languages & Frameworks
 
