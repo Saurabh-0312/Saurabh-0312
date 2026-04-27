@@ -21,6 +21,7 @@
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
+| **Chainlink**        | code4rena       | 1 Medium              | **1** |
 | **Current finance**  | Sherlock        | 1 High, 2 Medium      | **3** |
 | **Hopex**            | Private Audit   | 2 High, 4 Medium      | **6** |
 | **Wordlings**        | Private Audit   | 4 High, 4 Medium      | **8** |
@@ -35,7 +36,7 @@
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
 | **Rova**             | Sherlock        | 1 Medium              | **1** |
 | **Winnables Raffles**| Sherlock        | 1 Medium              | **1** |
-| **TOTAL**            | **All Platforms** | **22 High, 26 Medium** | **48** |
+| **TOTAL**            | **All Platforms** | **22 High, 27 Medium** | **49** |
 
 ## 💻 Languages & Frameworks
 
