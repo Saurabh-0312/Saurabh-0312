@@ -12,7 +12,7 @@
 - **Winner of `ETHGlobal New Delhi 2025`** across 2 protocols (The Graph, ASI)
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
 - **2+ Year of Professional `Smart Contract Auditing Experience`**
-- **`48+ Critical Vulnerabilities Discovered`** - 22 High and 26 Medium severity bugs identified
+- **`48+ Critical Vulnerabilities Discovered`** - 23 High and 28 Medium severity bugs identified
 - **Conducted `25+ security reviews`** on Solidity/EVM-based protocols
 - **Multiple Successful Security Audits** - Protecting millions in TVL across DeFi protocols
 - Available for freelance, full-time audit collaborations and Private audits
@@ -21,6 +21,7 @@
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
+| **Revert Finance**   | Cantina         | 1 High, 1 Medium      | **2** |
 | **Chainlink**        | code4rena       | 1 Medium              | **1** |
 | **Current finance**  | Sherlock        | 1 High, 2 Medium      | **3** |
 | **Hopex**            | Private Audit   | 2 High, 4 Medium      | **6** |
@@ -36,7 +37,7 @@
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
 | **Rova**             | Sherlock        | 1 Medium              | **1** |
 | **Winnables Raffles**| Sherlock        | 1 Medium              | **1** |
-| **TOTAL**            | **All Platforms** | **22 High, 27 Medium** | **49** |
+| **TOTAL**            | **All Platforms** | **23 High, 28 Medium** | **51** |
 
 ## 💻 Languages & Frameworks
 
