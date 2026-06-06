@@ -9,7 +9,7 @@
 
 ## 🏆 Achievements
 - **Completed 5 Private Audits** for `Raze`, `Manifest Finance`, `Raffle`, `Wordlings` and `Hopex`.
-- - **`51+ Critical Vulnerabilities Discovered`** - 23 High and 28 Medium severity bugs identified
+- **`51+ Critical Vulnerabilities Discovered`** - 23 High and 28 Medium severity bugs identified
 - **Winner of `ETHGlobal New Delhi 2025`** across 2 protocols (The Graph, ASI)
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
 - **2+ Year of Professional `Smart Contract Auditing Experience`**
