@@ -21,8 +21,9 @@
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
+| **K2 (Rust)**        | code4rena       |  1 Medium             | **1** |
 | **Revert Finance**   | Cantina         | 1 High, 1 Medium      | **2** |
-| **Chainlink**        | code4rena       | 1 Medium              | **1** |
+| **Chainlink**        | code4rena       |  1 Medium             | **1** |
 | **Current finance**  | Sherlock        | 1 High, 2 Medium      | **3** |
 | **Hopex**            | Private Audit   | 2 High, 4 Medium      | **6** |
 | **Wordlings**        | Private Audit   | 4 High, 4 Medium      | **8** |
@@ -35,9 +36,9 @@
 | **secondSwap**       | Code4rena       | 1 High, 1 Medium      | **2** |
 | **Plaza Finance**    | Sherlock        | 1 High, 1 Medium      | **2** |
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
-| **Rova**             | Sherlock        | 1 Medium              | **1** |
-| **Winnables Raffles**| Sherlock        | 1 Medium              | **1** |
-| **TOTAL**            | **All Platforms** | **23 High, 28 Medium** | **51** |
+| **Rova**             | Sherlock        |  1 Medium             | **1** |
+| **Winnables Raffles**| Sherlock        |  1 Medium             | **1** |
+| **TOTAL**            | **All Platforms** | **23 High, 29 Medium** | **52** |
 
 ## 💻 Languages & Frameworks
 
