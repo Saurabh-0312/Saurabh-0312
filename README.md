@@ -21,6 +21,7 @@
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
+| **Revert v4lend**    | Cantina         | 2 High, 4 Medium      | **6** |
 | **K2 (Rust)**        | code4rena       |  1 Medium             | **1** |
 | **Revert Finance**   | Cantina         | 1 High, 1 Medium      | **2** |
 | **Chainlink**        | code4rena       |  1 Medium             | **1** |
@@ -38,7 +39,7 @@
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
 | **Rova**             | Sherlock        |  1 Medium             | **1** |
 | **Winnables Raffles**| Sherlock        |  1 Medium             | **1** |
-| **TOTAL**            | **All Platforms** | **23 High, 29 Medium** | **52** |
+| **TOTAL**            | **All Platforms** | **25 High, 33 Medium** | **58** |
 
 ## 💻 Languages & Frameworks
 
