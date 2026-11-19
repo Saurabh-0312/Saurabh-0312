@@ -9,7 +9,7 @@
 
 ## 🏆 Achievements
 - **Completed 5 Private Audits** for `Raze`, `Manifest Finance`, `Raffle`, `Wordlings` and `Hopex`.
-- **`58+ Critical Vulnerabilities Discovered`** - 25 High and 33 Medium severity bugs identified
+- **`58+ Critical Vulnerabilities Discovered`** - 26 High and 32 Medium severity bugs identified
 - **Winner of `ETHGlobal New Delhi 2025`** across 2 protocols (The Graph, ASI)
 - **Winner of `ETHGlobal Singapore 2024`** across 4 protocols (LayerZero, The Graph, Avail, Worldcoin)
 - **2+ Year of Professional `Smart Contract Auditing Experience`**
@@ -21,7 +21,7 @@
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
-| **Revert v4lend**    | Cantina         | 2 High, 4 Medium      | **6** |
+| **Revert v4lend**    | Cantina         | 3 High, 3 Medium      | **6** |
 | **K2 (Rust)**        | code4rena       |  1 Medium             | **1** |
 | **Revert Finance**   | Cantina         | 1 High, 1 Medium      | **2** |
 | **Chainlink**        | code4rena       |  1 Medium             | **1** |
@@ -39,7 +39,7 @@
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
 | **Rova**             | Sherlock        |  1 Medium             | **1** |
 | **Winnables Raffles**| Sherlock        |  1 Medium             | **1** |
-| **TOTAL**            | **All Platforms** | **25 High, 33 Medium** | **58** |
+| **TOTAL**            | **All Platforms** | **26 High, 32 Medium** | **58** |
 
 ## 💻 Languages & Frameworks
 
